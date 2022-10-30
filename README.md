@@ -51,7 +51,9 @@
     <a href="https://youtube.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="youtube" width="48" height="48"/> </a>
     <a href="https://atom.com" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/atom-editor.png" alt="atom" width="48" height="48"/> </a>
     <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code" width="48" height="48"/> </a>
-    <a href="https://shopify.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="shopify" width="48" height="48"/> </a>
+    <a href="https://jetbrains.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" width="48" height="48"/> </a>
+    <a href="https://notion.so" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v1.png" alt="notion" width="48" height="48"/> </a>
+
   
     
 </p>
@@ -68,8 +70,11 @@
 ## 3. 📊 My Github Stats
 
   <br/>
+
+<p align="center">
     <a href="https://github.com/blesslinbenoj/github-readme-stats"><img alt="Blesslin Benoj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blesslinbenoj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/blesslinbenoj/github-readme-stats"><img alt="Blesslin Benoj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blesslinbenoj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
