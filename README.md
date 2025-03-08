@@ -55,14 +55,6 @@
     <a href="https://github.com/blesslinbenoj/github-readme-stats"><img alt="Blesslin Benoj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blesslinbenoj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/blesslinbenoj/github-readme-stats"><img alt="Blesslin Benoj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blesslinbenoj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/blesslinbenoj/github-readme-activity-graph"><img alt="Blesslin Benoj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blesslinbenoj&bg_color=0D1117&color=5BCDEC&line=39FF14&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -71,14 +63,10 @@
 <p align="left">
 
 <a href = "https://linkedin.com/in/blesslinbenoj"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/blesslinbenoj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/risk.x.33"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://t.me/Blesslinbenoj"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-
 </p>
 
-<!--## 5. ❤ Views and Followers
+## 5. ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=blesslinbenoj">
 </a>
-<a href="https://github.com/blesslinbenoj?tab=followers"><img src="https://img.shields.io/github/followers/blesslinbenoj?label=Followers&style=social" alt="GitHub Badge"></a>  -->
+<a href="https://github.com/blesslinbenoj?tab=followers"><img src="https://img.shields.io/github/followers/blesslinbenoj?label=Followers&style=social" alt="GitHub Badge"></a>  
